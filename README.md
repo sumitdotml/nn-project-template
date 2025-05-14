@@ -69,7 +69,7 @@ A barebones template with a clean directory structure for neural network archite
 
 The template uses a JSON-based configuration system similar to Hugging Face Transformers. Configuration files are typically stored in the `configs/` directory (e.g., `configs/default.json`).
 
-**For a detailed guide on creating and using configuration files, including how to adapt configurations from libraries like Hugging Face Transformers, please see [`configs/CONFIG_GUIDE.md`](configs/CONFIG_GUIDE.md).**
+**For a detailed guide on creating and using configuration files, including how to adapt configurations from libraries like Hugging Face Transformers, please see [`configs/README.md`](configs/README.md).**
 
 An example `configs/default.json` might look like this:
 
