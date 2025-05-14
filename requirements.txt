@@ -1,0 +1,14 @@
+torch
+torchvision
+numpy
+matplotlib
+pandas
+scikit-learn
+pytest
+tqdm
+tensorboard
+pillow
+# Optional: Deep Learning specific libraries
+# transformers  # Uncomment if using transformers
+# pytorch-lightning  # Uncomment if using PyTorch Lightning
+# datasets>=2.0.0  # Uncomment if using HuggingFace datasets
